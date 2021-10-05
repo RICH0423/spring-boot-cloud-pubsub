@@ -3,7 +3,7 @@
 
 
 ## Libraries
-Maven libraries used in this project which include  HAPI FHIR core and server library.
+Maven libraries used in this project
 - [spring-cloud-gcp-starter-pubsub](https://cloud.google.com/pubsub/docs/quickstart-client-libraries)
 
 ## Getting Started
@@ -13,7 +13,7 @@ This is an example of how you may give instructions on setting up your project l
 - To run this code sample, you must have a Google Cloud Platform project with billing and the Google
 Cloud Pub/Sub API enabled.
 
-Install and initialize the https://cloud.google.com/sdk/[Google Cloud SDK].
+Install and initialize the https://cloud.google.com/sdk/
 Log in with application default credentials using the following command:
 
 ```
